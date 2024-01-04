@@ -22,4 +22,6 @@ Open the index.html file in your web browser.
 
 # Deployment
 
-This project is deployed on Netlify. You can access the website from the following domain: https://ihebwesleti.netlify.app/
+This project is deployed on Netlify. 
+
+You can access the website from the following domain: https://ihebwesleti.netlify.app/
