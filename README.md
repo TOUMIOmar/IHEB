@@ -20,6 +20,6 @@ Navigate to the project directory: cd Iheb-Portfolio
 
 Open the index.html file in your web browser.
 
-#Deployment
+# Deployment
 
 This project is deployed on Netlify. You can access the website from the following domain: https://ihebwesleti.netlify.app/
