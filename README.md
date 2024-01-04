@@ -13,6 +13,7 @@ This is a personal portfolio website. The website is built using HTML, CSS (SCSS
 *Bootstrap
 
 # Setup:
+
 Clone the repository: git clone https://github.com/TOUMIOmar/Iheb-Portfolio
 
 Navigate to the project directory: cd Iheb-Portfolio
