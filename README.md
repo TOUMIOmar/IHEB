@@ -1,7 +1,9 @@
-#Description
+#Description:
+
 This is a personal portfolio website. The website is built using HTML, CSS (SCSS), JavaScript, and Bootstrap to create an interactive and visually appealing user experience.
 
-#Technologies Used
+#Technologies Used:
+
 ##HTML
 ##CSS (SCSS)
 J##avaScript
